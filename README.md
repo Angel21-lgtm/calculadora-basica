@@ -8,4 +8,4 @@ Puedes interactuar directamente con el proyecto con el siguiente enlace:
 # https://calculadora-basicajs.netlify.app
 
 Enlace del repositoro:
-# https://github.com/Angel21-lgtm/calculadora-basica
+# https://github.com/Angel21-lgtm/calculadora-basicajs
