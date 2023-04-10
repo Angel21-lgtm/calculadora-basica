@@ -1,0 +1,19 @@
+.boton-clear {
+    display: flex;
+    flex: 1 1;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    border-radius: 25px;
+    border: none;
+    font-size: 38px;
+    background-color: rgb(247, 248, 250);
+    box-shadow: 0.3rem 0.3rem 0.5rem #000;
+    font-weight: bold;
+}
+
+.boton-clear:active {
+    box-shadow: 0 0 1rem #000;
+    transform: scale(0.9);
+}

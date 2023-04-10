@@ -1,0 +1,26 @@
+.boton-contenedor {
+    height: 63px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: #000000;
+    border-radius: 25px;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    box-shadow: 0.3rem 0.3rem 0.5rem #000;
+    background-color: rgb(247, 248, 250);
+}
+
+.boton-contenedor:active {
+    box-shadow: 0 0 1rem #000;
+    transform: scale(0.9);
+}
+
+.operador {
+    background-color: #716a6ab3;
+}
